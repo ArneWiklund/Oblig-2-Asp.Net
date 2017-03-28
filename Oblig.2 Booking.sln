@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oblig.2 Booking", "..\..\..\..\Dropbox\NET\Siste\Oblig.2 Booking Nyeste\Oblig.2 Booking\Oblig.2 Booking.csproj", "{A2F5C59C-AA5B-4836-B128-70DFD9A566E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E48DED9C-28CC-40B4-B3F8-6D36EAC2D252}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Dropbox\NET\Siste\Oblig.2 Booking Nyeste\Ordre.xml = ..\..\..\..\Dropbox\NET\Siste\Oblig.2 Booking Nyeste\Ordre.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{8AD7B03F-9E40-4071-9FF7-C21C85DEE766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F5C59C-AA5B-4836-B128-70DFD9A566E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F5C59C-AA5B-4836-B128-70DFD9A566E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F5C59C-AA5B-4836-B128-70DFD9A566E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F5C59C-AA5B-4836-B128-70DFD9A566E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD7B03F-9E40-4071-9FF7-C21C85DEE766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD7B03F-9E40-4071-9FF7-C21C85DEE766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD7B03F-9E40-4071-9FF7-C21C85DEE766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD7B03F-9E40-4071-9FF7-C21C85DEE766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
